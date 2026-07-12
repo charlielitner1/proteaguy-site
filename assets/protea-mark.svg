@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Protea flower mark">
+  <g fill="none" stroke="#f2ddaa" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M32 34C23 26 20 17 24 7c7 5 10 13 8 27Z"/>
+    <path d="M32 34C35 23 43 17 53 17c-1 9-8 15-21 17Z"/>
+    <path d="M32 34C43 32 51 36 56 45c-9 4-18 0-24-11Z"/>
+    <path d="M32 34C37 44 35 53 28 60c-7-7-6-17 4-26Z"/>
+    <path d="M32 34C22 43 13 43 6 37c5-8 14-10 26-3Z"/>
+    <circle cx="32" cy="34" r="7"/>
+    <path d="M32 41v18"/>
+  </g>
+</svg>
